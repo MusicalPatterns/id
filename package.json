@@ -1,0 +1,14 @@
+{
+  "name": "@musical-patterns/id",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MusicalPatterns/id.git"
+  },
+  "devDependencies": {
+    "@musical-patterns/cli": "^1.0.537"
+  }
+}
