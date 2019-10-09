@@ -1,6 +1,7 @@
 // tslint:disable no-type-definitions-outside-types-modules
 
 enum Id {
+    BAPBO = 'BAPBO',
     BEATEN_PATH = 'BEATEN_PATH',
     HAFUHAFU = 'HAFUHAFU',
     HOUNDSTOOTHTOPIA_THEME = 'HOUNDSTOOTHTOPIA_THEME',
